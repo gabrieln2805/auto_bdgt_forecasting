@@ -1,5 +1,6 @@
 # auto_bdgt_forecasting
 Automated Budget Forecasting & Variance Explanation Engine
+
 Traditional ML vs Agentic AI (Local LLM) — A Practical Comparison
 
 Abstract
